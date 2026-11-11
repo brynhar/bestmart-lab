@@ -1,5 +1,3 @@
-[
-  {"customer_code":"C01","customer_name":"Andi","city":"Jakarta"},
-  {"customer_code":"C02","customer_name":"Budi","city":"Bekasi"},
-  {"customer_code":"C03","customer_name":"Citra","city":"Bandung"}
-]
+{"customer_code":"C01","customer_name":"Andi","city":"Jakarta"}
+{"customer_code":"C02","customer_name":"Budi","city":"Bekasi"}
+{"customer_code":"C03","customer_name":"Citra","city":"Bandung"}
